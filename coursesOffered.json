@@ -1,0 +1,30 @@
+{
+    "Courses Offered": [
+        "python_programming",
+        "machine_learning",
+        "cyber_security",
+        "web_development",
+        "full_stack_development",
+        "digital_marketing",
+        "artificial_intelligence",
+        "linux",
+        "cyber_forensics",
+        "malware_analysis",
+        "bug_bounty",
+        "cloud_computing",
+        "content_writing",
+        "c_programming",
+        "cpp_programming",
+        "core_java",
+        "advance_java",
+        "virtual_reality",
+        "augmented_reality",
+        "mix_reality",
+        "vulnerability_assessment_penetration_testing",
+        "blockchain",
+        "android",
+        "ux_design",
+        "alexa_voice_service",
+        "marketing"
+    ]
+}
