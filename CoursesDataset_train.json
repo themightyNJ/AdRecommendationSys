@@ -1,0 +1,5546 @@
+[
+  {
+    "Timestamp": "2020/01/27 7:53:15 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Basic",
+    "Target": "python_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:33 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Intermediate",
+    "Target": "python_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:01 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Advance",
+    "Target": "python_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:40 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Hot",
+    "Target": "machine_learning",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:55:04 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Basic",
+    "Target": "machine_learning",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:18 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Intermediate",
+    "Target": "machine_learning",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:36 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Advance",
+    "Target": "machine_learning",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:59 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Hot",
+    "Target": "artificial_intelligence",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:57:43 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Basic",
+    "Target": "cyber_security",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:58:00 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Intermediate",
+    "Target": "cyber_security",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:14 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Advance",
+    "Target": "cyber_security",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:37 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Hot",
+    "Target": "cyber_forensics",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:57 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Basic",
+    "Target": "web_development (PHP)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:15 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Intermediate",
+    "Target": "web_development (PHP)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:34 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Advance",
+    "Target": "web_development (PHP)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:05 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:55 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Basic",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:10 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Intermediate",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:31 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Advance",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:03:03 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:28 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Basic",
+    "Target": "digital_marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:45 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Intermediate",
+    "Target": "digital_marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:03 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Advance",
+    "Target": "digital_marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:26 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Hot",
+    "Target": "marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:10 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Basic",
+    "Target": "artificial_intelligence",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:28 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Intermediate",
+    "Target": "artificial_intelligence",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:50 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Advance",
+    "Target": "artificial_intelligence",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:00 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Basic",
+    "Target": "linux",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:36 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Intermediate",
+    "Target": "linux",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:14 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Advance",
+    "Target": "linux",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:34 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Hot",
+    "Target": "cyber_security",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:06 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Basic",
+    "Target": "cyber_forensics",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:25 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Intermediate",
+    "Target": "cyber_forensics",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:52 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Advance",
+    "Target": "cyber_forensics",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:31:22 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:15 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Basic",
+    "Target": "malware_analysis",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:39 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Intermediate",
+    "Target": "malware_analysis",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:57 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Advance",
+    "Target": "malware_analysis",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:34:58 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:42:36 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Basic",
+    "Target": "bug_bounty",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:00 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Intermediate",
+    "Target": "bug_bounty",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:18 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Advance",
+    "Target": "bug_bounty",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:07:04 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:08:41 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Basic",
+    "Target": "cloud_computing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:29 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Intermediate",
+    "Target": "cloud_computing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:53 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Advance",
+    "Target": "cloud_computing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:17:48 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Basic",
+    "Target": "content_writing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:18:37 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Intermediate",
+    "Target": "content_writing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:19:16 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Advance",
+    "Target": "content_writing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:22 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Basic",
+    "Target": "c_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:51 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Intermediate",
+    "Target": "c_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:15 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Advance",
+    "Target": "c_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:32 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:34 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:53 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Basic",
+    "Target": "cpp_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:09 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Intermediate",
+    "Target": "cpp_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:41 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Advance",
+    "Target": "cpp_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:26:23 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Basic",
+    "Target": "core_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:01 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Intermediate",
+    "Target": "core_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:35 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Advance",
+    "Target": "core_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:53 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Hot",
+    "Target": "advance_java",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:28:16 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Basic",
+    "Target": "advance_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:15 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Intermediate",
+    "Target": "advance_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:38 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Advance",
+    "Target": "advance_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:56 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Hot",
+    "Target": "android",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:15 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Basic",
+    "Target": "virtual_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:36 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Intermediate",
+    "Target": "virtual_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:53 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Advance",
+    "Target": "virtual_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:19:16 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Hot",
+    "Target": "augmented_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:24:24 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Basic",
+    "Target": "augmented_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:25:17 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Intermediate",
+    "Target": "augmented_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:26:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Advance",
+    "Target": "augmented_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Hot",
+    "Target": "mix_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:59 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Basic",
+    "Target": "mix_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:30:25 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Intermediate",
+    "Target": "mix_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:13 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Advance",
+    "Target": "mix_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:53 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Basic",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:15 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Intermediate",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:36 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Advance",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:55 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Hot",
+    "Target": "bug_bounty",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:35 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Basic",
+    "Target": "blockchain",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:56 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Intermediate",
+    "Target": "blockchain",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:37:32 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Advance",
+    "Target": "blockchain",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:08 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Basic",
+    "Target": "android",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:28 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Intermediate",
+    "Target": "android",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:47 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:15 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:53 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:43:55 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Basic",
+    "Target": "ux_design",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:13 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Intermediate",
+    "Target": "ux_design",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:32 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Advance",
+    "Target": "ux_design",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:59 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Hot",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:52:44 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Basic",
+    "Target": "alexa_voice_service",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:15 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Intermediate",
+    "Target": "alexa_voice_service",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:30 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Advance",
+    "Target": "alexa_voice_service",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:52 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Basic",
+    "Target": "marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:07 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Intermediate",
+    "Target": "marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:24 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Advance",
+    "Target": "marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:46 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Hot",
+    "Target": "digital_marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:15 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Basic",
+    "Target": "python_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:33 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Intermediate",
+    "Target": "python_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:01 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Advance",
+    "Target": "python_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:40 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Hot",
+    "Target": "machine_learning",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:55:04 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Basic",
+    "Target": "machine_learning",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:18 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Intermediate",
+    "Target": "machine_learning",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:36 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Advance",
+    "Target": "machine_learning",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:59 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Hot",
+    "Target": "artificial_intelligence",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:57:43 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Basic",
+    "Target": "cyber_security",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:58:00 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Intermediate",
+    "Target": "cyber_security",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:14 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Advance",
+    "Target": "cyber_security",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:37 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Hot",
+    "Target": "cyber_forensics",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:57 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Basic",
+    "Target": "web_development (PHP)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:15 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Intermediate",
+    "Target": "web_development (PHP)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:34 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Advance",
+    "Target": "web_development (PHP)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:05 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:55 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Basic",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:10 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Intermediate",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:31 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Advance",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:03:03 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:28 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Basic",
+    "Target": "digital_marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:45 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Intermediate",
+    "Target": "digital_marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:03 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Advance",
+    "Target": "digital_marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:26 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Hot",
+    "Target": "marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:10 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Basic",
+    "Target": "artificial_intelligence",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:28 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Intermediate",
+    "Target": "artificial_intelligence",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:50 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Advance",
+    "Target": "artificial_intelligence",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:00 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Basic",
+    "Target": "linux",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:36 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Intermediate",
+    "Target": "linux",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:14 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Advance",
+    "Target": "linux",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:34 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Hot",
+    "Target": "cyber_security",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:06 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Basic",
+    "Target": "cyber_forensics",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:25 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Intermediate",
+    "Target": "cyber_forensics",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:52 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Advance",
+    "Target": "cyber_forensics",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:31:22 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:15 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Basic",
+    "Target": "malware_analysis",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:39 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Intermediate",
+    "Target": "malware_analysis",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:57 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Advance",
+    "Target": "malware_analysis",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:34:58 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:42:36 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Basic",
+    "Target": "bug_bounty",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:00 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Intermediate",
+    "Target": "bug_bounty",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:18 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Advance",
+    "Target": "bug_bounty",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:07:04 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:08:41 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Basic",
+    "Target": "cloud_computing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:29 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Intermediate",
+    "Target": "cloud_computing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:53 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Advance",
+    "Target": "cloud_computing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:17:48 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Basic",
+    "Target": "content_writing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:18:37 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Intermediate",
+    "Target": "content_writing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:19:16 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Advance",
+    "Target": "content_writing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:22 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Basic",
+    "Target": "c_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:51 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Intermediate",
+    "Target": "c_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:15 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Advance",
+    "Target": "c_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:32 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:34 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:53 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Basic",
+    "Target": "cpp_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:09 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Intermediate",
+    "Target": "cpp_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:41 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Advance",
+    "Target": "cpp_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:26:23 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Basic",
+    "Target": "core_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:01 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Intermediate",
+    "Target": "core_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:35 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Advance",
+    "Target": "core_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:53 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Hot",
+    "Target": "advance_java",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:28:16 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Basic",
+    "Target": "advance_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:15 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Intermediate",
+    "Target": "advance_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:38 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Advance",
+    "Target": "advance_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:56 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Hot",
+    "Target": "android",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:15 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Basic",
+    "Target": "virtual_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:36 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Intermediate",
+    "Target": "virtual_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:53 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Advance",
+    "Target": "virtual_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:19:16 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Hot",
+    "Target": "augmented_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:24:24 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Basic",
+    "Target": "augmented_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:25:17 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Intermediate",
+    "Target": "augmented_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:26:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Advance",
+    "Target": "augmented_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Hot",
+    "Target": "mix_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:59 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Basic",
+    "Target": "mix_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:30:25 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Intermediate",
+    "Target": "mix_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:13 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Advance",
+    "Target": "mix_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:53 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Basic",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:15 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Intermediate",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:36 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Advance",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:55 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Hot",
+    "Target": "bug_bounty",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:35 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Basic",
+    "Target": "blockchain",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:56 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Intermediate",
+    "Target": "blockchain",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:37:32 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Advance",
+    "Target": "blockchain",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:08 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Basic",
+    "Target": "android",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:28 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Intermediate",
+    "Target": "android",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:47 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:15 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:53 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:43:55 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Basic",
+    "Target": "ux_design",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:13 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Intermediate",
+    "Target": "ux_design",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:32 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Advance",
+    "Target": "ux_design",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:59 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Hot",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:52:44 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Basic",
+    "Target": "alexa_voice_service",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:15 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Intermediate",
+    "Target": "alexa_voice_service",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:30 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Advance",
+    "Target": "alexa_voice_service",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:52 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Basic",
+    "Target": "marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:07 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Intermediate",
+    "Target": "marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:24 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Advance",
+    "Target": "marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:46 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Hot",
+    "Target": "digital_marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:15 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Basic",
+    "Target": "python_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:33 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Intermediate",
+    "Target": "python_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:01 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Advance",
+    "Target": "python_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:40 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Hot",
+    "Target": "machine_learning",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:55:04 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Basic",
+    "Target": "machine_learning",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:18 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Intermediate",
+    "Target": "machine_learning",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:36 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Advance",
+    "Target": "machine_learning",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:59 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Hot",
+    "Target": "artificial_intelligence",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:57:43 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Basic",
+    "Target": "cyber_security",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:58:00 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Intermediate",
+    "Target": "cyber_security",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:14 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Advance",
+    "Target": "cyber_security",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:37 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Hot",
+    "Target": "cyber_forensics",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:57 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Basic",
+    "Target": "web_development (PHP)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:15 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Intermediate",
+    "Target": "web_development (PHP)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:34 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Advance",
+    "Target": "web_development (PHP)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:05 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:55 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Basic",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:10 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Intermediate",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:31 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Advance",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:03:03 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:28 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Basic",
+    "Target": "digital_marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:45 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Intermediate",
+    "Target": "digital_marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:03 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Advance",
+    "Target": "digital_marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:26 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Hot",
+    "Target": "marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:10 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Basic",
+    "Target": "artificial_intelligence",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:28 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Intermediate",
+    "Target": "artificial_intelligence",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:50 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Advance",
+    "Target": "artificial_intelligence",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:00 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Basic",
+    "Target": "linux",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:36 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Intermediate",
+    "Target": "linux",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:14 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Advance",
+    "Target": "linux",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:34 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Hot",
+    "Target": "cyber_security",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:06 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Basic",
+    "Target": "cyber_forensics",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:25 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Intermediate",
+    "Target": "cyber_forensics",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:52 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Advance",
+    "Target": "cyber_forensics",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:31:22 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:15 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Basic",
+    "Target": "malware_analysis",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:39 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Intermediate",
+    "Target": "malware_analysis",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:57 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Advance",
+    "Target": "malware_analysis",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:34:58 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:42:36 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Basic",
+    "Target": "bug_bounty",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:00 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Intermediate",
+    "Target": "bug_bounty",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:18 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Advance",
+    "Target": "bug_bounty",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:07:04 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:08:41 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Basic",
+    "Target": "cloud_computing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:29 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Intermediate",
+    "Target": "cloud_computing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:53 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Advance",
+    "Target": "cloud_computing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:17:48 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Basic",
+    "Target": "content_writing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:18:37 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Intermediate",
+    "Target": "content_writing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:19:16 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Advance",
+    "Target": "content_writing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:22 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Basic",
+    "Target": "c_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:51 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Intermediate",
+    "Target": "c_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:15 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Advance",
+    "Target": "c_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:32 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:34 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:53 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Basic",
+    "Target": "cpp_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:09 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Intermediate",
+    "Target": "cpp_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:41 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Advance",
+    "Target": "cpp_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:26:23 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Basic",
+    "Target": "core_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:01 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Intermediate",
+    "Target": "core_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:35 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Advance",
+    "Target": "core_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:53 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Hot",
+    "Target": "advance_java",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:28:16 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Basic",
+    "Target": "advance_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:15 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Intermediate",
+    "Target": "advance_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:38 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Advance",
+    "Target": "advance_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:56 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Hot",
+    "Target": "android",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:15 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Basic",
+    "Target": "virtual_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:36 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Intermediate",
+    "Target": "virtual_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:53 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Advance",
+    "Target": "virtual_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:19:16 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Hot",
+    "Target": "augmented_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:24:24 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Basic",
+    "Target": "augmented_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:25:17 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Intermediate",
+    "Target": "augmented_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:26:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Advance",
+    "Target": "augmented_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Hot",
+    "Target": "mix_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:59 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Basic",
+    "Target": "mix_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:30:25 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Intermediate",
+    "Target": "mix_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:13 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Advance",
+    "Target": "mix_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:53 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Basic",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:15 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Intermediate",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:36 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Advance",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:55 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Hot",
+    "Target": "bug_bounty",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:35 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Basic",
+    "Target": "blockchain",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:56 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Intermediate",
+    "Target": "blockchain",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:37:32 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Advance",
+    "Target": "blockchain",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:08 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Basic",
+    "Target": "android",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:28 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Intermediate",
+    "Target": "android",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:47 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:15 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:53 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:43:55 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Basic",
+    "Target": "ux_design",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:13 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Intermediate",
+    "Target": "ux_design",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:32 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Advance",
+    "Target": "ux_design",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:59 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Hot",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:52:44 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Basic",
+    "Target": "alexa_voice_service",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:15 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Intermediate",
+    "Target": "alexa_voice_service",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:30 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Advance",
+    "Target": "alexa_voice_service",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:52 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Basic",
+    "Target": "marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:07 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Intermediate",
+    "Target": "marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:24 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Advance",
+    "Target": "marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:46 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Hot",
+    "Target": "digital_marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:15 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Basic",
+    "Target": "python_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:33 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Intermediate",
+    "Target": "python_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:01 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Advance",
+    "Target": "python_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:40 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Hot",
+    "Target": "machine_learning",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:55:04 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Basic",
+    "Target": "machine_learning",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:18 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Intermediate",
+    "Target": "machine_learning",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:36 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Advance",
+    "Target": "machine_learning",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:59 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Hot",
+    "Target": "artificial_intelligence",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:57:43 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Basic",
+    "Target": "cyber_security",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:58:00 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Intermediate",
+    "Target": "cyber_security",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:14 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Advance",
+    "Target": "cyber_security",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:37 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Hot",
+    "Target": "cyber_forensics",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:57 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Basic",
+    "Target": "web_development (PHP)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:15 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Intermediate",
+    "Target": "web_development (PHP)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:34 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Advance",
+    "Target": "web_development (PHP)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:05 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:55 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Basic",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:10 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Intermediate",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:31 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Advance",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:03:03 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:28 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Basic",
+    "Target": "digital_marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:45 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Intermediate",
+    "Target": "digital_marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:03 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Advance",
+    "Target": "digital_marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:26 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Hot",
+    "Target": "marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:10 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Basic",
+    "Target": "artificial_intelligence",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:28 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Intermediate",
+    "Target": "artificial_intelligence",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:50 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Advance",
+    "Target": "artificial_intelligence",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:00 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Basic",
+    "Target": "linux",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:36 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Intermediate",
+    "Target": "linux",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:14 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Advance",
+    "Target": "linux",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:34 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Hot",
+    "Target": "cyber_security",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:06 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Basic",
+    "Target": "cyber_forensics",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:25 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Intermediate",
+    "Target": "cyber_forensics",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:52 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Advance",
+    "Target": "cyber_forensics",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:31:22 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:15 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Basic",
+    "Target": "malware_analysis",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:39 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Intermediate",
+    "Target": "malware_analysis",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:57 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Advance",
+    "Target": "malware_analysis",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:34:58 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:42:36 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Basic",
+    "Target": "bug_bounty",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:00 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Intermediate",
+    "Target": "bug_bounty",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:18 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Advance",
+    "Target": "bug_bounty",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:07:04 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:08:41 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Basic",
+    "Target": "cloud_computing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:29 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Intermediate",
+    "Target": "cloud_computing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:53 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Advance",
+    "Target": "cloud_computing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:17:48 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Basic",
+    "Target": "content_writing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:18:37 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Intermediate",
+    "Target": "content_writing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:19:16 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Advance",
+    "Target": "content_writing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:22 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Basic",
+    "Target": "c_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:51 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Intermediate",
+    "Target": "c_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:15 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Advance",
+    "Target": "c_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:32 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:34 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:53 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Basic",
+    "Target": "cpp_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:09 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Intermediate",
+    "Target": "cpp_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:41 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Advance",
+    "Target": "cpp_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:26:23 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Basic",
+    "Target": "core_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:01 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Intermediate",
+    "Target": "core_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:35 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Advance",
+    "Target": "core_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:53 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Hot",
+    "Target": "advance_java",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:28:16 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Basic",
+    "Target": "advance_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:15 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Intermediate",
+    "Target": "advance_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:38 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Advance",
+    "Target": "advance_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:56 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Hot",
+    "Target": "android",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:15 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Basic",
+    "Target": "virtual_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:36 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Intermediate",
+    "Target": "virtual_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:53 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Advance",
+    "Target": "virtual_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:19:16 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Hot",
+    "Target": "augmented_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:24:24 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Basic",
+    "Target": "augmented_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:25:17 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Intermediate",
+    "Target": "augmented_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:26:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Advance",
+    "Target": "augmented_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Hot",
+    "Target": "mix_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:59 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Basic",
+    "Target": "mix_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:30:25 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Intermediate",
+    "Target": "mix_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:13 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Advance",
+    "Target": "mix_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:53 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Basic",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:15 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Intermediate",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:36 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Advance",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:55 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Hot",
+    "Target": "bug_bounty",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:35 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Basic",
+    "Target": "blockchain",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:56 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Intermediate",
+    "Target": "blockchain",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:37:32 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Advance",
+    "Target": "blockchain",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:08 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Basic",
+    "Target": "android",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:28 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Intermediate",
+    "Target": "android",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:47 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:15 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:53 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:43:55 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Basic",
+    "Target": "ux_design",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:13 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Intermediate",
+    "Target": "ux_design",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:32 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Advance",
+    "Target": "ux_design",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:59 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Hot",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:52:44 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Basic",
+    "Target": "alexa_voice_service",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:15 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Intermediate",
+    "Target": "alexa_voice_service",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:30 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Advance",
+    "Target": "alexa_voice_service",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:52 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Basic",
+    "Target": "marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:07 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Intermediate",
+    "Target": "marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:24 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Advance",
+    "Target": "marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:46 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Hot",
+    "Target": "digital_marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:15 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Basic",
+    "Target": "python_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:33 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Intermediate",
+    "Target": "python_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:01 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Advance",
+    "Target": "python_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:40 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Hot",
+    "Target": "machine_learning",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:55:04 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Basic",
+    "Target": "machine_learning",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:18 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Intermediate",
+    "Target": "machine_learning",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:36 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Advance",
+    "Target": "machine_learning",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:59 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Hot",
+    "Target": "artificial_intelligence",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:57:43 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Basic",
+    "Target": "cyber_security",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:58:00 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Intermediate",
+    "Target": "cyber_security",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:14 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Advance",
+    "Target": "cyber_security",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:37 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Hot",
+    "Target": "cyber_forensics",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:57 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Basic",
+    "Target": "web_development (PHP)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:15 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Intermediate",
+    "Target": "web_development (PHP)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:34 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Advance",
+    "Target": "web_development (PHP)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:05 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:55 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Basic",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:10 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Intermediate",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:31 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Advance",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:03:03 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:28 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Basic",
+    "Target": "digital_marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:45 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Intermediate",
+    "Target": "digital_marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:03 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Advance",
+    "Target": "digital_marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:26 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Hot",
+    "Target": "marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:10 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Basic",
+    "Target": "artificial_intelligence",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:28 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Intermediate",
+    "Target": "artificial_intelligence",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:50 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Advance",
+    "Target": "artificial_intelligence",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:00 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Basic",
+    "Target": "linux",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:36 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Intermediate",
+    "Target": "linux",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:14 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Advance",
+    "Target": "linux",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:34 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Hot",
+    "Target": "cyber_security",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:06 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Basic",
+    "Target": "cyber_forensics",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:25 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Intermediate",
+    "Target": "cyber_forensics",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:52 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Advance",
+    "Target": "cyber_forensics",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:31:22 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:15 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Basic",
+    "Target": "malware_analysis",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:39 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Intermediate",
+    "Target": "malware_analysis",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:57 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Advance",
+    "Target": "malware_analysis",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:34:58 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:42:36 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Basic",
+    "Target": "bug_bounty",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:00 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Intermediate",
+    "Target": "bug_bounty",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:18 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Advance",
+    "Target": "bug_bounty",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:07:04 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:08:41 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Basic",
+    "Target": "cloud_computing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:29 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Intermediate",
+    "Target": "cloud_computing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:53 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Advance",
+    "Target": "cloud_computing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:17:48 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Basic",
+    "Target": "content_writing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:18:37 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Intermediate",
+    "Target": "content_writing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:19:16 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Advance",
+    "Target": "content_writing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:22 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Basic",
+    "Target": "c_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:51 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Intermediate",
+    "Target": "c_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:15 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Advance",
+    "Target": "c_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:32 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:34 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:53 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Basic",
+    "Target": "cpp_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:09 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Intermediate",
+    "Target": "cpp_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:41 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Advance",
+    "Target": "cpp_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:26:23 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Basic",
+    "Target": "core_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:01 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Intermediate",
+    "Target": "core_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:35 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Advance",
+    "Target": "core_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:53 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Hot",
+    "Target": "advance_java",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:28:16 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Basic",
+    "Target": "advance_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:15 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Intermediate",
+    "Target": "advance_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:38 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Advance",
+    "Target": "advance_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:56 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Hot",
+    "Target": "android",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:15 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Basic",
+    "Target": "virtual_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:36 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Intermediate",
+    "Target": "virtual_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:53 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Advance",
+    "Target": "virtual_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:19:16 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Hot",
+    "Target": "augmented_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:24:24 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Basic",
+    "Target": "augmented_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:25:17 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Intermediate",
+    "Target": "augmented_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:26:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Advance",
+    "Target": "augmented_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Hot",
+    "Target": "mix_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:59 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Basic",
+    "Target": "mix_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:30:25 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Intermediate",
+    "Target": "mix_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:13 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Advance",
+    "Target": "mix_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:53 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Basic",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:15 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Intermediate",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:36 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Advance",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:55 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Hot",
+    "Target": "bug_bounty",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:35 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Basic",
+    "Target": "blockchain",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:56 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Intermediate",
+    "Target": "blockchain",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:37:32 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Advance",
+    "Target": "blockchain",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:08 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Basic",
+    "Target": "android",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:28 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Intermediate",
+    "Target": "android",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:47 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:15 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:53 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:43:55 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Basic",
+    "Target": "ux_design",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:13 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Intermediate",
+    "Target": "ux_design",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:32 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Advance",
+    "Target": "ux_design",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:59 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Hot",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:52:44 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Basic",
+    "Target": "alexa_voice_service",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:15 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Intermediate",
+    "Target": "alexa_voice_service",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:30 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Advance",
+    "Target": "alexa_voice_service",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:52 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Basic",
+    "Target": "marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:07 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Intermediate",
+    "Target": "marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:24 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Advance",
+    "Target": "marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:46 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Hot",
+    "Target": "digital_marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:15 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Basic",
+    "Target": "python_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:33 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Intermediate",
+    "Target": "python_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:01 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Advance",
+    "Target": "python_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:40 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Hot",
+    "Target": "machine_learning",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:55:04 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Basic",
+    "Target": "machine_learning",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:18 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Intermediate",
+    "Target": "machine_learning",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:36 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Advance",
+    "Target": "machine_learning",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:59 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Hot",
+    "Target": "artificial_intelligence",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:57:43 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Basic",
+    "Target": "cyber_security",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:58:00 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Intermediate",
+    "Target": "cyber_security",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:14 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Advance",
+    "Target": "cyber_security",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:37 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Hot",
+    "Target": "cyber_forensics",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:57 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Basic",
+    "Target": "web_development (PHP)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:15 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Intermediate",
+    "Target": "web_development (PHP)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:34 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Advance",
+    "Target": "web_development (PHP)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:05 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:55 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Basic",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:10 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Intermediate",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:31 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Advance",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:03:03 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:28 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Basic",
+    "Target": "digital_marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:45 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Intermediate",
+    "Target": "digital_marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:03 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Advance",
+    "Target": "digital_marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:26 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Hot",
+    "Target": "marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:10 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Basic",
+    "Target": "artificial_intelligence",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:28 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Intermediate",
+    "Target": "artificial_intelligence",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:50 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Advance",
+    "Target": "artificial_intelligence",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:00 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Basic",
+    "Target": "linux",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:36 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Intermediate",
+    "Target": "linux",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:14 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Advance",
+    "Target": "linux",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:34 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Hot",
+    "Target": "cyber_security",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:06 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Basic",
+    "Target": "cyber_forensics",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:25 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Intermediate",
+    "Target": "cyber_forensics",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:52 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Advance",
+    "Target": "cyber_forensics",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:31:22 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:15 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Basic",
+    "Target": "malware_analysis",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:39 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Intermediate",
+    "Target": "malware_analysis",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:57 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Advance",
+    "Target": "malware_analysis",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:34:58 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:42:36 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Basic",
+    "Target": "bug_bounty",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:00 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Intermediate",
+    "Target": "bug_bounty",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:18 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Advance",
+    "Target": "bug_bounty",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:07:04 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:08:41 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Basic",
+    "Target": "cloud_computing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:29 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Intermediate",
+    "Target": "cloud_computing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:53 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Advance",
+    "Target": "cloud_computing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:17:48 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Basic",
+    "Target": "content_writing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:18:37 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Intermediate",
+    "Target": "content_writing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:19:16 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Advance",
+    "Target": "content_writing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:22 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Basic",
+    "Target": "c_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:51 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Intermediate",
+    "Target": "c_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:15 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Advance",
+    "Target": "c_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:32 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:34 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:53 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Basic",
+    "Target": "cpp_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:09 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Intermediate",
+    "Target": "cpp_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:41 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Advance",
+    "Target": "cpp_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:26:23 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Basic",
+    "Target": "core_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:01 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Intermediate",
+    "Target": "core_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:35 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Advance",
+    "Target": "core_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:53 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Hot",
+    "Target": "advance_java",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:28:16 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Basic",
+    "Target": "advance_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:15 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Intermediate",
+    "Target": "advance_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:38 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Advance",
+    "Target": "advance_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:56 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Hot",
+    "Target": "android",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:15 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Basic",
+    "Target": "virtual_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:36 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Intermediate",
+    "Target": "virtual_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:53 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Advance",
+    "Target": "virtual_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:19:16 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Hot",
+    "Target": "augmented_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:24:24 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Basic",
+    "Target": "augmented_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:25:17 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Intermediate",
+    "Target": "augmented_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:26:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Advance",
+    "Target": "augmented_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Hot",
+    "Target": "mix_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:59 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Basic",
+    "Target": "mix_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:30:25 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Intermediate",
+    "Target": "mix_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:13 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Advance",
+    "Target": "mix_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:53 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Basic",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:15 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Intermediate",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:36 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Advance",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:55 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Hot",
+    "Target": "bug_bounty",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:35 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Basic",
+    "Target": "blockchain",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:56 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Intermediate",
+    "Target": "blockchain",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:37:32 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Advance",
+    "Target": "blockchain",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:08 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Basic",
+    "Target": "android",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:28 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Intermediate",
+    "Target": "android",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:47 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:15 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:53 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:43:55 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Basic",
+    "Target": "ux_design",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:13 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Intermediate",
+    "Target": "ux_design",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:32 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Advance",
+    "Target": "ux_design",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:59 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Hot",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:52:44 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Basic",
+    "Target": "alexa_voice_service",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:15 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Intermediate",
+    "Target": "alexa_voice_service",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:30 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Advance",
+    "Target": "alexa_voice_service",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:52 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Basic",
+    "Target": "marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:07 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Intermediate",
+    "Target": "marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:24 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Advance",
+    "Target": "marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:46 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Hot",
+    "Target": "digital_marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:15 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Basic",
+    "Target": "python_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:33 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Intermediate",
+    "Target": "python_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:01 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Advance",
+    "Target": "python_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:40 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Hot",
+    "Target": "machine_learning",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:55:04 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Basic",
+    "Target": "machine_learning",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:18 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Intermediate",
+    "Target": "machine_learning",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:36 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Advance",
+    "Target": "machine_learning",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:59 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Hot",
+    "Target": "artificial_intelligence",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:57:43 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Basic",
+    "Target": "cyber_security",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:58:00 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Intermediate",
+    "Target": "cyber_security",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:14 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Advance",
+    "Target": "cyber_security",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:37 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Hot",
+    "Target": "cyber_forensics",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:57 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Basic",
+    "Target": "web_development (PHP)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:15 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Intermediate",
+    "Target": "web_development (PHP)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:34 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Advance",
+    "Target": "web_development (PHP)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:05 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:55 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Basic",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:10 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Intermediate",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:31 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Advance",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:03:03 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:28 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Basic",
+    "Target": "digital_marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:45 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Intermediate",
+    "Target": "digital_marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:03 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Advance",
+    "Target": "digital_marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:26 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Hot",
+    "Target": "marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:10 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Basic",
+    "Target": "artificial_intelligence",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:28 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Intermediate",
+    "Target": "artificial_intelligence",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:50 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Advance",
+    "Target": "artificial_intelligence",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:00 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Basic",
+    "Target": "linux",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:36 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Intermediate",
+    "Target": "linux",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:14 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Advance",
+    "Target": "linux",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:34 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Hot",
+    "Target": "cyber_security",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:06 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Basic",
+    "Target": "cyber_forensics",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:25 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Intermediate",
+    "Target": "cyber_forensics",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:52 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Advance",
+    "Target": "cyber_forensics",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:31:22 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:15 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Basic",
+    "Target": "malware_analysis",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:39 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Intermediate",
+    "Target": "malware_analysis",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:57 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Advance",
+    "Target": "malware_analysis",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:34:58 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:42:36 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Basic",
+    "Target": "bug_bounty",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:00 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Intermediate",
+    "Target": "bug_bounty",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:18 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Advance",
+    "Target": "bug_bounty",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:07:04 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:08:41 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Basic",
+    "Target": "cloud_computing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:29 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Intermediate",
+    "Target": "cloud_computing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:53 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Advance",
+    "Target": "cloud_computing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:17:48 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Basic",
+    "Target": "content_writing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:18:37 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Intermediate",
+    "Target": "content_writing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:19:16 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Advance",
+    "Target": "content_writing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:22 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Basic",
+    "Target": "c_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:51 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Intermediate",
+    "Target": "c_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:15 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Advance",
+    "Target": "c_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:32 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:34 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:53 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Basic",
+    "Target": "cpp_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:09 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Intermediate",
+    "Target": "cpp_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:41 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Advance",
+    "Target": "cpp_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:26:23 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Basic",
+    "Target": "core_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:01 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Intermediate",
+    "Target": "core_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:35 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Advance",
+    "Target": "core_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:53 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Hot",
+    "Target": "advance_java",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:28:16 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Basic",
+    "Target": "advance_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:15 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Intermediate",
+    "Target": "advance_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:38 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Advance",
+    "Target": "advance_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:56 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Hot",
+    "Target": "android",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:15 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Basic",
+    "Target": "virtual_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:36 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Intermediate",
+    "Target": "virtual_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:53 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Advance",
+    "Target": "virtual_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:19:16 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Hot",
+    "Target": "augmented_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:24:24 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Basic",
+    "Target": "augmented_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:25:17 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Intermediate",
+    "Target": "augmented_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:26:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Advance",
+    "Target": "augmented_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Hot",
+    "Target": "mix_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:59 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Basic",
+    "Target": "mix_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:30:25 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Intermediate",
+    "Target": "mix_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:13 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Advance",
+    "Target": "mix_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:53 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Basic",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:15 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Intermediate",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:36 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Advance",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:55 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Hot",
+    "Target": "bug_bounty",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:35 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Basic",
+    "Target": "blockchain",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:56 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Intermediate",
+    "Target": "blockchain",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:37:32 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Advance",
+    "Target": "blockchain",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:08 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Basic",
+    "Target": "android",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:28 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Intermediate",
+    "Target": "android",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:47 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:15 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:53 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:43:55 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Basic",
+    "Target": "ux_design",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:13 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Intermediate",
+    "Target": "ux_design",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:32 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Advance",
+    "Target": "ux_design",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:59 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Hot",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:52:44 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Basic",
+    "Target": "alexa_voice_service",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:15 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Intermediate",
+    "Target": "alexa_voice_service",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:30 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Advance",
+    "Target": "alexa_voice_service",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:52 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Basic",
+    "Target": "marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:07 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Intermediate",
+    "Target": "marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:24 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Advance",
+    "Target": "marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:46 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Hot",
+    "Target": "digital_marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:15 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Basic",
+    "Target": "python_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:53:33 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Intermediate",
+    "Target": "python_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:01 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Advance",
+    "Target": "python_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:54:40 pm GMT+5:30",
+    "Current Skills": "python_programming",
+    "Current level": "Hot",
+    "Target": "machine_learning",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:55:04 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Basic",
+    "Target": "machine_learning",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:18 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Intermediate",
+    "Target": "machine_learning",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:36 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Advance",
+    "Target": "machine_learning",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:56:59 pm GMT+5:30",
+    "Current Skills": "machine_learning",
+    "Current level": "Hot",
+    "Target": "artificial_intelligence",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:57:43 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Basic",
+    "Target": "cyber_security",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 7:58:00 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Intermediate",
+    "Target": "cyber_security",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:14 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Advance",
+    "Target": "cyber_security",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:37 pm GMT+5:30",
+    "Current Skills": "cyber_security",
+    "Current level": "Hot",
+    "Target": "cyber_forensics",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 7:59:57 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Basic",
+    "Target": "web_development (PHP)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:15 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Intermediate",
+    "Target": "web_development (PHP)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:00:34 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Advance",
+    "Target": "web_development (PHP)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:05 pm GMT+5:30",
+    "Current Skills": "web_development (PHP)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:01:55 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Basic",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:10 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Intermediate",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:02:31 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Advance",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:03:03 pm GMT+5:30",
+    "Current Skills": "full_stack_development (MEAN)",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:28 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Basic",
+    "Target": "digital_marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:04:45 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Intermediate",
+    "Target": "digital_marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:03 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Advance",
+    "Target": "digital_marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:05:26 pm GMT+5:30",
+    "Current Skills": "digital_marketing",
+    "Current level": "Hot",
+    "Target": "marketing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:10 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Basic",
+    "Target": "artificial_intelligence",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:28 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Intermediate",
+    "Target": "artificial_intelligence",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:06:50 pm GMT+5:30",
+    "Current Skills": "artificial_intelligence",
+    "Current level": "Advance",
+    "Target": "artificial_intelligence",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:00 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Basic",
+    "Target": "linux",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:08:36 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Intermediate",
+    "Target": "linux",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:14 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Advance",
+    "Target": "linux",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:09:34 pm GMT+5:30",
+    "Current Skills": "linux",
+    "Current level": "Hot",
+    "Target": "cyber_security",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:06 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Basic",
+    "Target": "cyber_forensics",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:25 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Intermediate",
+    "Target": "cyber_forensics",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:30:52 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Advance",
+    "Target": "cyber_forensics",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:31:22 pm GMT+5:30",
+    "Current Skills": "cyber_forensics",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:15 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Basic",
+    "Target": "malware_analysis",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:39 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Intermediate",
+    "Target": "malware_analysis",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:32:57 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Advance",
+    "Target": "malware_analysis",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 8:34:58 pm GMT+5:30",
+    "Current Skills": "malware_analysis",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 8:42:36 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Basic",
+    "Target": "bug_bounty",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:00 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Intermediate",
+    "Target": "bug_bounty",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 8:43:18 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Advance",
+    "Target": "bug_bounty",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:07:04 pm GMT+5:30",
+    "Current Skills": "bug_bounty",
+    "Current level": "Hot",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:08:41 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Basic",
+    "Target": "cloud_computing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:29 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Intermediate",
+    "Target": "cloud_computing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:09:53 pm GMT+5:30",
+    "Current Skills": "cloud_computing",
+    "Current level": "Advance",
+    "Target": "cloud_computing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:17:48 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Basic",
+    "Target": "content_writing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:18:37 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Intermediate",
+    "Target": "content_writing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:19:16 pm GMT+5:30",
+    "Current Skills": "content_writing",
+    "Current level": "Advance",
+    "Target": "content_writing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:22 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Basic",
+    "Target": "c_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:20:51 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Intermediate",
+    "Target": "c_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:15 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Advance",
+    "Target": "c_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:21:32 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:34 pm GMT+5:30",
+    "Current Skills": "c_programming",
+    "Current level": "Hot",
+    "Target": "cpp_programming",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:24:53 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Basic",
+    "Target": "cpp_programming",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:09 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Intermediate",
+    "Target": "cpp_programming",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:25:41 pm GMT+5:30",
+    "Current Skills": "cpp_programming",
+    "Current level": "Advance",
+    "Target": "cpp_programming",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:26:23 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Basic",
+    "Target": "core_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:01 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Intermediate",
+    "Target": "core_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:35 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Advance",
+    "Target": "core_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:27:53 pm GMT+5:30",
+    "Current Skills": "core_java",
+    "Current level": "Hot",
+    "Target": "advance_java",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/27 9:28:16 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Basic",
+    "Target": "advance_java",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:15 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Intermediate",
+    "Target": "advance_java",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:38 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Advance",
+    "Target": "advance_java",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/27 9:35:56 pm GMT+5:30",
+    "Current Skills": "advance_java",
+    "Current level": "Hot",
+    "Target": "android",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:15 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Basic",
+    "Target": "virtual_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:36 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Intermediate",
+    "Target": "virtual_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:18:53 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Advance",
+    "Target": "virtual_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:19:16 pm GMT+5:30",
+    "Current Skills": "virtual_reality",
+    "Current level": "Hot",
+    "Target": "augmented_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:24:24 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Basic",
+    "Target": "augmented_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:25:17 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Intermediate",
+    "Target": "augmented_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:26:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Advance",
+    "Target": "augmented_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:14 pm GMT+5:30",
+    "Current Skills": "augmented_reality",
+    "Current level": "Hot",
+    "Target": "mix_reality",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:29:59 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Basic",
+    "Target": "mix_reality",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:30:25 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Intermediate",
+    "Target": "mix_reality",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:13 pm GMT+5:30",
+    "Current Skills": "mix_reality",
+    "Current level": "Advance",
+    "Target": "mix_reality",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:32:53 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Basic",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:15 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Intermediate",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:36 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Advance",
+    "Target": "vulnerability_assessment_penetration_testing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:33:55 pm GMT+5:30",
+    "Current Skills": "vulnerability_assessment_penetration_testing",
+    "Current level": "Hot",
+    "Target": "bug_bounty",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:35 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Basic",
+    "Target": "blockchain",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:36:56 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Intermediate",
+    "Target": "blockchain",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:37:32 pm GMT+5:30",
+    "Current Skills": "blockchain",
+    "Current level": "Advance",
+    "Target": "blockchain",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:08 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Basic",
+    "Target": "android",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:28 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Intermediate",
+    "Target": "android",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:40:47 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:15 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Advance",
+    "Target": "android",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:42:53 pm GMT+5:30",
+    "Current Skills": "android",
+    "Current level": "Hot",
+    "Target": "ux_design",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:43:55 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Basic",
+    "Target": "ux_design",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:13 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Intermediate",
+    "Target": "ux_design",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:32 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Advance",
+    "Target": "ux_design",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:44:59 pm GMT+5:30",
+    "Current Skills": "ux_design",
+    "Current level": "Hot",
+    "Target": "full_stack_development (MEAN)",
+    "Target level": "Basic"
+  },
+  {
+    "Timestamp": "2020/01/28 8:52:44 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Basic",
+    "Target": "alexa_voice_service",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:15 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Intermediate",
+    "Target": "alexa_voice_service",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:30 pm GMT+5:30",
+    "Current Skills": "alexa_voice_service",
+    "Current level": "Advance",
+    "Target": "alexa_voice_service",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:53:52 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Basic",
+    "Target": "marketing",
+    "Target level": "Intermediate"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:07 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Intermediate",
+    "Target": "marketing",
+    "Target level": "Advance"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:24 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Advance",
+    "Target": "marketing",
+    "Target level": "Hot"
+  },
+  {
+    "Timestamp": "2020/01/28 8:54:46 pm GMT+5:30",
+    "Current Skills": "marketing",
+    "Current level": "Hot",
+    "Target": "digital_marketing",
+    "Target level": "Basic"
+  }
+]
